@@ -1,0 +1,7 @@
+
+Pre trained model with data augmentation implemented below is the given number of epoch, loss, accuracy, validation loss, validation accuracy
+
+
+
+Epoch 30/30
+125125 [==============================] - 8s 66msstep - loss 0.4211 - accuracy 0.8180 - val_loss 0.3869 - val_accuracy 0.8487
